@@ -1,1 +1,1 @@
-Channel 9 Git Fundamentals, made a small change
+Channel 9 Git Fundamentals, made a small update to my change from GitHub
